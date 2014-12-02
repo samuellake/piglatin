@@ -1,0 +1,17 @@
+{
+  "name": "piglatin",
+  "version": "0.0.1",
+  "description": "Translates english into piglatin. Very complicated language",
+  "main": "piglatin.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samuellake/piglatin.git"
+  },
+  "keywords": [
+    "piglatin"
+  ],
+  "author": "Samuel Lake",
+}

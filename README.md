@@ -1,4 +1,4 @@
-piglatin
-========
+# piglatin
 
-Translator for English to pig latin
+## Translates english into piglatin. Very complicated language
+
